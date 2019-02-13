@@ -6,6 +6,8 @@
 	<title>Home</title>
 </head>
 <body>
+<a href="#anchor">여기를 누르면</a>
+
 <h1>텍스트 링크 만들기</h1>
 
 <p><a href="http://www.easyspub.com">이지스 퍼블리싱 홈페이지(현재화면)</a></p>
@@ -29,5 +31,6 @@ if(!Modernizr.svg){
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Letters_SVG.svg/768px-Letters_SVG.svg.png" width="200" height="100">
 
+<h3 id="anchor">여기로 옵니다.</h3>
 </body>
 </html>
